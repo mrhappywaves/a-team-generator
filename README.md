@@ -34,12 +34,15 @@ To get the project set up locally please follow the following steps:
 Application can be used to create a team web page, if you don't have a team, you can track your employees, if you don't have employess, you can just share some of your information in the app. Please see application usage videos below:
 
 Console app: 
+
 https://user-images.githubusercontent.com/94947579/168756728-bf9b1b83-d4b2-46d9-83c9-20033834bce4.mp4
 
 Tests: 
+
 https://user-images.githubusercontent.com/94947579/168756768-92c4f1ff-af70-4152-8a78-fcc07701f1e3.mp4
 
 End result: 
+
 https://user-images.githubusercontent.com/94947579/168756815-cb98b5cd-85d5-4359-a31d-988d398c4466.mp4
 
 ## Credits
