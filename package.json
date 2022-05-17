@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "test": "jest",
+    "testdev": "jest --watchAll"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "name": "a-team-generator",
+  "description": "Simple application for tracking employees per team.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrhappywaves/a-team-generator.git"
+  },
+  "author": "mrhappywaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrhappywaves/a-team-generator/issues"
+  },
+  "homepage": "https://github.com/mrhappywaves/a-team-generator/dist/index.html"
+}
